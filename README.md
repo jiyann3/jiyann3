@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm [Jiyan]!
 
 🚀 **Software Developer** | 🌍 **Open Source Contributor** | 📚 **Continuous Learner**
 
@@ -13,16 +13,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🔥 Featured Projects
-1. **[Project Name](https://github.com/yourusername/project)** - Short description (e.g., "AI-powered chatbot using NLP").
-2. **[Project Name](https://github.com/yourusername/project)** - Short description (e.g., "E-commerce platform with React & Firebase").
-
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
 
 ## 🌟 Fun Fact
-⚡ When I'm not coding, I love [hobby, e.g., hiking/photography/chess].
+⚡ When I'm not coding, I love [music].
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
