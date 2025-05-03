@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jiyan!
+# 👋  I'm Jiyan!
 
 🚀 **Software Developer** | 🌍 **Open Source Contributor** | 📚 **Continuous Learner**
 
